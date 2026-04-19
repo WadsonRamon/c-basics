@@ -1,4 +1,4 @@
-# 📚 Conceitos Básicos em C
+# Conceitos Básicos em C
 
 Este repositório contém pequenos programas desenvolvidos durante aulas de programação em **C**.
 
@@ -12,7 +12,7 @@ O objetivo é praticar conceitos fundamentais da linguagem como:
 
 ---
 
-# 📂 Arquivos do projeto
+# Arquivos do projeto
 
 ### soma.c
 
@@ -38,7 +38,7 @@ Simulação simples de controle de estoque de produtos utilizando variáveis, co
 
 ---
 
-# ⚙️ Compilação
+# Compilação
 
 Para compilar qualquer arquivo:
 
@@ -54,7 +54,7 @@ gcc soma.c -o soma
 
 ---
 
-# ▶️ Execução
+# Execução
 
 ```bash
 ./soma
